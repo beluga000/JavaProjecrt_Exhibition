@@ -1,7 +1,6 @@
-# Go Out Display
+# Java Project 
 
-
-👨‍👧‍👦Team member
-|김남훈|김선우|손현진|최선형|
-|-----|-----|-----|-----|
+Language : Java(JDK 14), HTML5, CSS3, JavaScript, XML <br>
+DB : Oracle 18c <br>
+DevelopmentTools : Eclipse, SQL Developer, Vuerd
 
