@@ -1,6 +1,7 @@
-# Java Project 
+# ㅇㅁㅈㅅ : 전시회&박람회 정보 및 예약 통합 사이트
+<hr>
+❓ Problem : 여러가지 종류의 전시회&박람회 정보를 얻기가 어렵다!<br>
+❗️ Idea : 다양한 전시회&박람회 정보 제공과 동시에 예약과 다양한 전시 후기를 볼 수 있는 사이트가 있으면 좋지 않을까?<br>
+💯 Solution : 모든 종류의 전시회&박람회 정보를 제공하고 커뮤니티 기능을 활용해 다양한 전시 후기를 이용자에게 제공하자! 
 
-Language : Java(JDK 14), HTML5, CSS3, JavaScript, XML <br>
-DB : Oracle 18c <br>
-DevelopmentTools : Eclipse, SQL Developer, Vuerd
 
