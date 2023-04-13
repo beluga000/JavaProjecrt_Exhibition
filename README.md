@@ -32,3 +32,8 @@
 
 ## 개발 기간
 - 2023.01.02 ~ 2023.02.02 (4주)
+
+## ERD
+
+![image](https://user-images.githubusercontent.com/113018906/231658445-165cef23-e4c5-48d0-9d50-7c842742244e.png)
+
